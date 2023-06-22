@@ -1,0 +1,10 @@
+.center{
+    text-align: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+p,li{
+    font-family: 'Itim', cursive;
+}
